@@ -1,2 +1,3 @@
-# programming-for-career
-Programming for Career
+# Programming for Career
+
+Another Learning Platform Focused on Project Based Learning
